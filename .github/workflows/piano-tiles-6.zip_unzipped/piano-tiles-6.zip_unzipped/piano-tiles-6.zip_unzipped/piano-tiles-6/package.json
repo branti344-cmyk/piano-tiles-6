@@ -1,0 +1,21 @@
+{
+  "name": "piano-tiles-6",
+  "version": "1.0.0",
+  "description": "Piano Tiles 6 — Beat-synced mobile rhythm game with Juice WRLD & Toxic Lyrikali",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host --port 5173",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "lint": "eslint src/",
+    "deploy": "vite build && gh-pages -d dist"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "eslint": "^8.57.0",
+    "gh-pages": "^6.1.1"
+  },
+  "keywords": ["piano-tiles", "rhythm-game", "web-audio", "mobile-game"],
+  "author": "Piano Tiles 6",
+  "license": "MIT"
+}

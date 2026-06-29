@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.host": "0.0.0.0",
+  "javascript.suggest.autoImports": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
